@@ -1,0 +1,112 @@
+{
+    "TitlePage": {
+        "Intro": "Enter user and hit return...",
+        "Easter": [
+            "Wake up neo...",
+            "Follow the white rabbit..."
+        ],
+        "Instructions": "Follow the prompts to navigate the site, if you get stuck, simply type the `site --help` or `man site` for more information. To select an option, type `./<page_name>`",
+        "PageTitles": [
+            "about",
+            "development_portfolio",
+            "offsec_journey",
+            "work_with_me"
+        ]
+    },
+    "aboutPage": {
+        "Title": "Ian Scott-McInally | Full Stack Software Developer and Offsec Enthusiast.",
+        "SubTitle": "Curious of the why as well as the how, a Problem solver, Programmer and aspiring Network Penetration Tester. To find out more about my learning journey, select below...",
+        "Options": [
+            {
+                "Title": "programming_languages",
+                "Justifications": "A self taught learning journey initially with platforms such as freeCodeCamp and the Harvard CS series, gaining skills within both web development and software development. NOT FINISHED FLESH THIS OUT!!!!!",
+                "Data": [
+                    "C",
+                    "C#",
+                    "JavaScript",
+                    "Python",
+                    "SQL"
+                ]
+            },
+            {
+                "Title": "tools",
+                "Justifications": "Working within a team of developers building full stack web applications strengthened my understanding of databases and how they work, prompting further interest in cyber security... <NOT FINISHED FLESH THIS OUT>",
+                "Data": [
+                    "entity_framework",
+                    "SSMS",
+                    "metsaploit",
+                    "nano",
+                    "nmap",
+                    "Vim",
+                    "Visual Studio",
+                    "Visual Studio Code"
+                ]
+            },
+            {
+                "Title": "operating_systems",
+                "Justifications": "In order to begin my understanding of the why and how data is actually transmitted over the internet, I needed to undestand operating systems and networks..... NOT FINISHED FLESH THIS OUT ",
+                "Data": [
+                    "Windows 10",
+                    "Windows 11",
+                    "Ubuntu Linux",
+                    "Kali Linux",
+                    "PiOS"
+                ]
+            }
+        ]
+    },
+    "development_portfolio": {
+        "Title": "development_portfolio",
+        "SubTitle": "Select an option to view more information, items marked with an [*] open within a new browser tab.",
+        "Options": [
+            {
+                "Title": "Node JS Team Profile Generator",
+                "Description": "Staff Card HTML page generator, creates a HTML page populated with user input text data, uses JavaScript Classes in order to handle prompts and card generations.",
+                "Languages": [
+                    "JS"
+                ],
+                "Link": "https://github.com/Jaycossey/team-profile-gen"
+            },
+            {
+                "Title": "NodeJS Portfolio Generator",
+                "Description": "Command line program, generates a single page basic web portfolio with three projects showcased, created as an iteration to algorithms and automation tasks.",
+                "Languages": [
+                    "HTML",
+                    "CSS",
+                    "JS"
+                ],
+                "Link": "https://github.com/Jaycossey/presentation-portfolio/"
+            },
+            {
+                "Title": "Algorithms",
+                "Description": "Basic string and numeric algorithms created with JavaScipt and tested using the Jest Library",
+                "Languages": [
+                    "JS",
+                    "Jest"
+                ],
+                "Link": "https://github.com/Jaycossey/algorithms"
+            },
+            {
+                "Title": "Full Stack Web Applications with CMS integration",
+                "Description": "Currently Unavailable, please check back later...",
+                "Languages": [
+                    "ASPNET C# MVC",
+                    "entityFramework",
+                    "JS",
+                    "jQuery"
+                ],
+                "Link": ""
+            },
+            {
+                "Title": "Software Penetration Testing",
+                "Description": "Currently Unavailable, please check back later...",
+                "Languages": [
+                    ""
+                ],
+                "Link": ""
+            }
+        ]
+    },
+    "offsec_journey": {},
+    "work_with_me": {}
+}
